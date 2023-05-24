@@ -1,5 +1,6 @@
 # Ecommerce with NextJS & Sanity
 #### Thanks to Adrian Haijdin (https://gist.github.com/adrianhajdin) for providing next.config.js and guide on Next.js 13
+** for Dev stuff head to DEV_DOC.md & for Create Next App head to CNA.md
 #### Why Next.js?
 - Next.js simplifies dev process
 - Next.js offers middleware, parsing, auth.
