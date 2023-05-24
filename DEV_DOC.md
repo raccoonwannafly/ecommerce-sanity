@@ -1,5 +1,22 @@
-## Dev process:
 
+-----------------------------------------------------------------------
+##### React 18 & Next.js 13 ` "use client" `
+- app folder by default uses react server components to enhance loading
+- https://nextjs.org/learn/foundations/how-nextjs-works/rendering
+- Declare
+```
+ "use client" 
+ ```
+
+on top of component to change to switch to client side component
+##### Data fetching
+- Server Side Rendering (SSR): Use `{ cache: 'no-store '}` to remove caching
+- Static Site Generation (SSG): Static site
+- Incremental Static Generation (ISR): `{ next: { revalidate: 10 } }` 
+combinds SSR + SSG for dynamic content & static sites, specifies certain data to be fetched at build time while defining revalidate time interval, refreshes data.
+
+------------------------------------------------------------------------
+## Dev process:
 - `npx create-next-app`
 
 #### Install dependencies: `npm install --legacy-peer-deps`
