@@ -1,4 +1,5 @@
 # Ecommerce with NextJS & Sanity
+# Live URL: https://ecommerce-sanity-git-main-raccoon-wannafly.vercel.app/
 #### Thanks to Adrian Haijdin (https://gist.github.com/adrianhajdin) for providing next.config.js and guide on Next.js 13
 ** for Dev stuff head to DEV_DOC.md & for Create Next App head to CNA.md
 #### Why Next.js?
