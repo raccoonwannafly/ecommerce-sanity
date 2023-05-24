@@ -9,7 +9,10 @@
 ![image](https://github.com/raccoonwannafly/ecommerce-sanity/assets/130273473/428ce300-69be-4044-bb76-fb0d745a8117)
 
 
-#### Functionality:
+#### Features:
+- CRUD operation via Sanity, easily manage data (products)
+- Display products from Sanity, adjust quantity, add to cart, remove from cart...
+- Checkout with Stripe payment method
 
 #### Why Next.js?
 - Next.js simplifies dev process
