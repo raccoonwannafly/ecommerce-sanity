@@ -10,8 +10,8 @@
 
 
 #### Features:
-- CRUD operation via Sanity, easily manage data (products)
-- Display products from Sanity, adjust quantity, add to cart, remove from cart...
+- CRUD operation via Sanity backend, easily manage data (products)
+- View product page, adjust quantity, add to cart, remove from cart
 - Checkout with Stripe payment method
 
 #### Why Next.js?
