@@ -1,3 +1,5 @@
+## Thanks to Adrian Haijdin (https://gist.github.com/adrianhajdin) for providing next.config.js and guide on Next.js 13
+
 ## Dev process:
 
 - `npx create-next-app`
