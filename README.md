@@ -1,7 +1,16 @@
-# Ecommerce with NextJS & Sanity
+# Ecommerce with NextJS & Sanity & Stripe
 # Live URL: https://ecommerce-sanity-git-main-raccoon-wannafly.vercel.app/
 #### Thanks to Adrian Haijdin (https://gist.github.com/adrianhajdin) for providing next.config.js and guide on Next.js 13
 ** for Dev stuff head to DEV_DOC.md & for Create Next App head to CNA.md
+
+![image](https://github.com/raccoonwannafly/ecommerce-sanity/assets/130273473/c8b7ebf6-ebc9-4644-b335-21b10a37d6ff)
+![image](https://github.com/raccoonwannafly/ecommerce-sanity/assets/130273473/78b057d3-2123-44de-8ba4-6ac50a7ba144)
+![image](https://github.com/raccoonwannafly/ecommerce-sanity/assets/130273473/ebd61b85-00bb-475b-b5d8-42d75b4f6ebe)
+![image](https://github.com/raccoonwannafly/ecommerce-sanity/assets/130273473/428ce300-69be-4044-bb76-fb0d745a8117)
+
+
+#### Functionality:
+
 #### Why Next.js?
 - Next.js simplifies dev process
 - Next.js offers middleware, parsing, auth.
