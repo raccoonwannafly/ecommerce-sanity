@@ -29,3 +29,6 @@ When user navigate to a page only code for that page loads.
 - In React you have to use nested routing, Next.js use simple and comprehensive file-based routing system.
 - Linting, Formatting, Compiling, Bundling, Minifying, Deploying, ... simplifed with Next.js
 - CNA > CRA
+
+#### Resources:
+The net ninja: https://www.youtube.com/@NetNinja F8: https://www.youtube.com/@F8VNOfficial WDS: https://www.youtube.com/@WebDevSimplified Traversy Media: https://www.youtube.com/@TraversyMedia FCC: https://www.youtube.com/@freecodecamp Developedbyed: https://www.youtube.com/@developedbyed Academind: https://www.youtube.com/@academind JSM: https://www.youtube.com/@javascriptmastery FireShip: https://www.youtube.com/@Fireship
