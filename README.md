@@ -14,7 +14,7 @@
 - View product page, adjust quantity, add to cart, remove from cart
 - Checkout with Stripe payment method
 
-#### Why Next.js?
+#### TIL ab Next.js
 - Next.js simplifies dev process
 - Next.js offers middleware, parsing, auth.
 - Optimizes web app
